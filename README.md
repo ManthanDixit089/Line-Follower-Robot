@@ -259,11 +259,6 @@ PID-Line-Follower/
 
 **Arduino • Robotics • Embedded Systems • AI • Computer Vision**
 
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
